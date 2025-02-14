@@ -1,0 +1,101 @@
+student_id,name,math,science,english,total,grade
+1,Jeane Coalbran,29,10,82,25,Expanded
+2,Evey Dowse,77,67,15,97,Persevering
+3,Cointon Hassey,85,42,47,82,zero administration
+4,Leonora Cattellion,5,29,10,62,human-resource
+5,Elysha Tremble,52,28,42,47,archive
+6,Ruy De Atta,20,88,4,60,portal
+7,Isador Cappell,98,74,3,36,time-frame
+8,Riki Hartil,29,34,59,34,Configurable
+9,Livvy Simukov,11,71,19,55,eco-centric
+10,Darda Leghorn,19,8,67,16,encryption
+11,Carleton Woodger,11,47,97,100,alliance
+12,Bobbye Kumaar,67,72,50,76,Focused
+13,Madonna Waistell,21,8,16,100,Horizontal
+14,Terra Ketteman,63,14,37,20,bi-directional
+15,Adah Byers,88,49,98,10,infrastructure
+16,Alvira Sherebrook,5,11,14,60,actuating
+17,Linette Pelfer,60,98,41,19,web-enabled
+18,Davey Ferrara,11,37,78,71,Function-based
+19,Cammy Wartnaby,89,14,10,59,local area network
+20,Aurel Tatters,16,91,83,61,parallelism
+21,Murvyn Audas,18,13,47,26,even-keeled
+22,Danila Leivesley,8,7,75,68,bi-directional
+23,Aurelia Stephens,42,77,63,17,Re-contextualized
+24,Olivero Stinson,16,64,11,28,exuding
+25,Ellery Brecken,64,33,42,4,Centralized
+26,Clerkclaude Watters,23,1,94,86,asynchronous
+27,Hinda Harbar,33,76,34,85,Upgradable
+28,Colly Cowp,52,96,20,100,Public-key
+29,Pepe Bramich,83,69,20,67,Seamless
+30,Kaitlin Robertot,64,82,70,31,Optimized
+31,Melody Scadden,4,35,16,41,service-desk
+32,Rosy Curbishley,2,7,87,26,3rd generation
+33,Domini Farnon,94,8,47,45,contingency
+34,Janeva Wadman,55,60,5,80,contingency
+35,Toby Feaveer,5,7,60,30,matrix
+36,Paulie Huguet,77,77,32,6,access
+37,Adah Klehyn,12,86,48,35,knowledge user
+38,Jermaine Kinnear,45,94,51,28,flexibility
+39,Analiese Snoding,15,56,41,74,complexity
+40,Jacinthe Skipper,88,70,57,13,User-friendly
+41,Bale Blaine,74,21,26,62,capability
+42,Barri McTague,80,32,21,55,Multi-channelled
+43,Yul Rosina,23,8,87,97,tertiary
+44,Avrom Helversen,52,27,28,47,analyzer
+45,Sharleen Bortolozzi,45,80,2,81,knowledge base
+46,Elia Galey,75,52,41,41,foreground
+47,Dannye Birtley,26,56,53,82,access
+48,Barret Thoresbie,87,55,97,29,Switchable
+49,Tiffanie Wagen,29,61,37,22,methodology
+50,Malynda Boar,30,19,79,59,Persistent
+51,Jacqui Ellissen,47,31,70,26,Synchronised
+52,Dorris Weatherall,11,34,59,35,Customizable
+53,Paquito Willerson,85,79,4,23,background
+54,Free Nelthorpe,36,45,44,22,logistical
+55,Ruggiero Fludder,26,45,30,97,encoding
+56,Roseann Ende,77,87,77,94,analyzer
+57,Celestyn Calderon,74,85,60,42,structure
+58,Lissy Hammor,57,62,57,94,Diverse
+59,Anabelle Alford,85,45,31,19,frame
+60,Layton Cabble,52,50,66,50,Diverse
+61,Dion Enns,23,48,73,22,homogeneous
+62,Bunni Matveichev,76,35,72,38,Reduced
+63,Hope Ridesdale,54,9,75,10,moderator
+64,Cymbre Joderli,77,31,92,4,local
+65,Nissie Burdell,62,37,30,90,Quality-focused
+66,Mace Harkess,89,95,17,64,Horizontal
+67,Renie Maryin,97,88,12,42,contextually-based
+68,Janie Karslake,85,2,18,97,Multi-channelled
+69,Andeee Peerless,30,54,69,17,Synergistic
+70,Norbie Guerri,40,25,58,12,secured line
+71,Merralee Entreis,76,89,66,81,Triple-buffered
+72,Murdock McKeachie,88,67,94,73,Open-architected
+73,Alfred Fernley,38,62,57,70,portal
+74,Lettie Kilian,2,92,32,50,web-enabled
+75,Ami Witherden,58,78,64,30,systemic
+76,Cariotta Axten,20,57,52,88,asymmetric
+77,Caresse Kittredge,12,67,69,73,regional
+78,Constancia Ball,57,37,37,47,eco-centric
+79,Gabbey Wolfart,86,77,14,24,parallelism
+80,Aldric Lackmann,46,45,37,71,local
+81,Sayres Toth,95,100,18,99,homogeneous
+82,Sibyl Scupham,22,57,24,15,function
+83,Theo Lamzed,81,81,37,7,empowering
+84,Aimil Ruhben,68,51,38,28,hardware
+85,Tabatha Sitlington,45,99,24,-1,well-modulated
+86,Michaeline Woolforde,38,79,49,24,solution
+87,Cliff Killimister,87,70,35,62,human-resource
+88,Murdock Yurshev,0,15,39,70,Cross-platform
+89,Alano Cornewell,0,99,19,97,Quality-focused
+90,Rockie La Torre,69,58,16,64,asymmetric
+91,Cooper Hymans,97,91,19,0,Expanded
+92,Nanni Buckthought,71,26,13,26,structure
+93,Christian Essberger,73,79,72,32,24 hour
+94,Aylmer Wadlow,53,25,80,100,Assimilated
+95,Liliane Enrietto,21,17,20,94,Secured
+96,Marin Skelly,24,15,83,4,open system
+97,Anastasia Nazaret,94,90,47,68,Assimilated
+98,Jenica Branch,5,34,34,32,directional
+99,Scarface Saville,32,44,81,16,asymmetric
+100,Seumas Bawdon,91,21,9,54,Cross-group
